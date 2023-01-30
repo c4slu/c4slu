@@ -30,7 +30,7 @@
   💬 Contato:
 
   <a href = "mailto:lucasnascimento.brn@gmail.com" alt="e-mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucas-rodrigues-31a442210/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-data/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://www.instagram.com/_c4sluu/" alt="Instagram" target="_blank">
