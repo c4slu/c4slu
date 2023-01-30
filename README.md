@@ -1,4 +1,4 @@
-<img src="https://www.cledar.com/wp-content/uploads/2022/02/Data-visualization-v2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i0.wp.com/ahex.co/wp-content/uploads/2022/05/data_visualisation-1.png?fit=566%2C566&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Sou um analista de dados apaixonado por transformar dados brutos em informações valiosas e insights significativos. Com habilidades em estatística, programação e análise de dados, tenho experiência em coletar, processar e analisar grandes conjuntos de dados, bem como em criar relatórios e visualizações para comunicar resultados.
