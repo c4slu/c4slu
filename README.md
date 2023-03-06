@@ -22,3 +22,6 @@
 <a href="https://www.linkedin.com/in/lucas-data/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br>
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
